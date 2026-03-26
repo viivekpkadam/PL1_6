@@ -1,0 +1,10 @@
+1_verify'deletePost'Functionality=true
+ts-2Verify'get'HelpButtonIsFunctional=true
+ts-3VerifyListOfReports=true
+ts-4VerifyEmployeeListSearchFunctionality=true
+ts-5VerifyPrimaryColourOfCorporateBrandingCouldBeChanged=true
+ts-6VerifyClientLogoCouldNotBeUploadedAbove1Mb=true
+ts-7VerifyLanguageChangeFunctionality=true
+ts-8VerifyRequiredFieldErrorInLeavesTabDisplaysWhenRequiredFieldIsEmpty=false
+ts-9VerifyMyInfoDownloadFunctionality=true
+ts-10VerifyUserDetailsCouldBeUpdated=true
